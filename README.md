@@ -1,5 +1,7 @@
 Author: Ian Cordeiro
+
 Last update: 2 July 2026
+
 Repository Title: Nonlinear Causality and Strong Hyperbolicity of Einstein-IS Theories from DNMR
 
 This repository is a supplemental repository for the preprint of the paper titled
