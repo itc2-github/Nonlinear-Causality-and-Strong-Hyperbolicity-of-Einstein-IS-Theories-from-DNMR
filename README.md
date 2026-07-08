@@ -7,7 +7,7 @@ Repository Title: Nonlinear Causality and Strong Hyperbolicity of Einstein-IS Th
 This repository is a supplemental repository for the preprint of the paper titled
 
 "Nonlinear Causality and Strong Hyperbolicity of Einstein-Israel-Stewart Theories of Transient Relativistic Fluid Dynamics"
-by Ian Cordeiro, F'{a}bio S. Bemfica, Enrico Speranza, Marcelo Disconzi, and Jorge Noronha
+by Ian Cordeiro, Enrico Speranza, F'{a}bio S. Bemfica, Marcelo Disconzi, and Jorge Noronha
 
 All calculations were written by Ian Cordeiro (itc2@illinois.edu). 
 
